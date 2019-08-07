@@ -1,0 +1,49 @@
+ *{
+	padding:0 0;
+	margin :0 0;
+}
+body
+{
+font-family: arial ,sana-seriff;
+line-height: 25px;
+}
+
+
+
+.wrapper{
+	border:1px solid red;
+	width:90%;
+	marin:0 auto;
+	padding:1% 1%;
+}
+.clearfix:after
+{
+content: " ";
+visibility:hidden;
+display:block;
+height:0;
+clear:both;
+}
+
+
+.header
+{
+background-color:darkblue;
+color:white;
+}
+
+.footer
+{
+background-color:darkblue;
+color:white;
+}
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="../rental housing/css/style.css">
